@@ -18,3 +18,13 @@ Twitterで不快なポストを非表示にするためのフィルターです�
 ```
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_words.txt
 ```
+
+### YouTube End Screen
+
+YouTube動画の最後に表示されるオーバーレイコンテンツを可能な限り非表示にするためのフィルターです。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fdaizu-007%2Fdaizu-s-block-list%2Frefs%2Fheads%2Fmain%2FYouTube%2Fend_screen.txt\&title=Hide%20YouTube%20End%20Screen%20Contents)
+
+```
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/end_screen.txt
+```

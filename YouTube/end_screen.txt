@@ -1,0 +1,8 @@
+! Title: Hide YouTube End Screen Contents
+! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! YouTube動画の最後に表示されるコンテンツを非表示にする
+
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-ce-element
+! 「非表示」ボタン
+www.youtube.com##.ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconLeading.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextFilled.ytSpecButtonShapeNextHost
