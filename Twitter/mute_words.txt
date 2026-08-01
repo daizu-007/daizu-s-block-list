@@ -19,3 +19,5 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/反ワク|ネトウヨ|極右|�
 x.com##div[data-testid="cellInnerDiv"]:has-text(/不倫|浮気|不貞|広陵/)
 !スパム
 x.com##div[data-testid="cellInnerDiv"]:has-text(/吹いた|わかる。|@grok|落ち着いて聞いてください|落ち着いて聞いて下さい|あの、失礼ですが/)
+!デマ
+x.com##div[data-testid="cellInnerDiv"]:has-text(/人工地震/)
