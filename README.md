@@ -44,7 +44,6 @@ issueやDM等で連絡をくださればブロック対象から外す等の対�
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_users.txt
 ```
 
-
 ### YouTube
 
 #### YouTube End Screen
@@ -56,3 +55,15 @@ YouTube動画の最後に表示されるオーバーレイコンテンツを可�
 ```
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/end_screen.txt
 ```
+
+## クレジット
+このフィルターリストの作成にあたって、以下を参考にさせていただきました。
+- [uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin) by [Kdroidwin](https://github.com/Kdroidwin): uBlockOrigin向けリストの基本形を参考にしました
+- [gist:488dac5770c2a3cc36edc9139b625190](https://gist.github.com/Yuki2718/488dac5770c2a3cc36edc9139b625190) by [Yuki2718](https://github.com/Yuki2718): Twitterで特定ユーザーの投稿を非表示にする方法を参考にしました  
+  
+このフィルターの作成に協力してくださったすべての方に感謝を申し上げます。以下に、主な貢献者の主な貢献内容を記載します。
+- [Kdroidwin](https://github.com/Kdroidwin)
+  - [直接インストールできるリンクの追加](https://github.com/daizu-007/daizu-s-block-list/pull/1)
+  - [Twitter向けミュートワードの追加](https://github.com/daizu-007/daizu-s-block-list/pull/1)
+- [Yuki2718](https://github.com/Yuki2718)
+  - [uBlock Originで特定ユーザーの投稿を非表示にする方法の提供](https://x.com/Yuki27183/status/2082784790269534284?s=20)
