@@ -7,6 +7,29 @@ daizu-007が管理する[uBlock Origin](https://github.com/gorhill/uBlock)のブ
 
 個人用なので有用性は低いと思います。
 
+## 使い方
+
+1. uBlock Originをインストールする
+2. 下の「フィルターリスト」から使いたいフィルターを選ぶ
+3. 「インストール」リンクを開く
+4. uBlock Originが自動で認識し、内容の確認画面とともに「購読」ボタンが表示されるので、クリックする
+
+### uBlock Originのインストール
+- Vivaldi/Titanium等: [uBlock Origin - Chrome ウェブストア](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- FireFox系ブラウザ: [uBlock Origin - Add-ons for Firefox](https://addons.mozilla.org/ja/firefox/addon/ublock-origin/)
+- Edge: [uBlock Origin - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+- Opera: [uBlock Origin - Opera add-ons](https://addons.opera.com/ja/extensions/details/ublock/)
+- 手動インストール: [uBlock Origin - GitHub](https://github.com/gorhill/uBlock)
+
+Google Chromeでは、uBlock Originが必要とするManifest V2がサポートされなくなったため、uBlock Originをインストールできません。Vivaldi等のChromium系ブラウザでも将来的に同様の状況になる可能性があります。  
+現時点ではChromeウェブストアからもインストール可能ですが、すでに検索に表示されなくなっており、近いうちにインストールできなくなる可能性があります。  
+  
+#### Androidの場合
+Androidで拡張機能をサポートしたブラウザはあまり多くありません。FireFox系ブラウザであればほとんどの場合拡張機能をサポートしていますが、個人的には以下のChromium系ブラウザを推奨します:
+- [Titanium Browser](https://play.google.com/store/apps/details?id=io.github.jqssun.helium)
+
+Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。
+
 ## フィルターリスト
 
 ### Twitter
