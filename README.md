@@ -13,7 +13,8 @@ daizu-007が管理する[uBlock Origin](https://github.com/gorhill/uBlock)のブ
 
 #### daizu's twitter mute words
 
-Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。
+Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。  
+このフィルターは、Twitterの投稿から受けるストレスの軽減を目指しているもので、言葉狩りや表現規制に賛同するものではなく、むしろ自衛を容易にすることで表現の自由の保護につながると考えています。
 
 [インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fdaizu-007%2Fdaizu-s-block-list%2Frefs%2Fheads%2Fmain%2FTwitter%2Fmute_words.txt\&title=daizu%27s%20twitter%20mute%20words)
 
@@ -30,6 +31,19 @@ Twitterで古いニュースを非表示にします。現在は、Gigazineの�
 ```
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/old_news.txt
 ```
+
+#### daizu's twitter mute users
+
+一部のTwitterユーザーの投稿を非表示にします。独断と偏見でストレスの原因になりやすそうなユーザーを選びました。  
+対象ユーザーの主張に賛同/反対するものではなく、また当人を攻撃する意思もありません。当人に全く非がない場合でも、周囲の反応等でストレスになる可能性があると判断した場合はブロック対象にしています。  
+issueやDM等で連絡をくださればブロック対象から外す等の対応も可能です。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fdaizu-007%2Fdaizu-s-block-list%2Frefs%2Fheads%2Fmain%2FTwitter%2Fmute_users.txt\&title=daizu%27s%20twitter%20mute%20users)
+
+```
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_users.txt
+```
+
 
 ### YouTube
 
