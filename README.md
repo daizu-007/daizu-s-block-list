@@ -79,6 +79,17 @@ YouTube動画の最後に表示されるオーバーレイコンテンツを可�
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/end_screen.txt
 ```
 
+### Bing
+
+#### I don't have questions for Copilot while searching on Bing
+
+Bing検索の株に表示されるCopilotの質問欄を非表示にするためのフィルターです。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fdaizu-007%2Fdaizu-s-block-list%2Frefs%2Fheads%2Fmain%2FBing%2Fcopilot_followup.txt\&title=I%20don%27t%20have%20questions%20for%20Copilot%20while%20searching%20on%20Bing)
+```
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Bing/copilot_followup.txt
+```
+
 ## クレジット
 このフィルターリストの作成にあたって、以下を参考にさせていただきました。
 - [uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin) by [Kdroidwin](https://github.com/Kdroidwin): uBlockOrigin向けリストの基本形を参考にしました
