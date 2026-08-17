@@ -90,6 +90,16 @@ Bing検索の株に表示されるCopilotの質問欄を非表示にするため
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Bing/copilot_followup.txt
 ```
 
+## 一括インストール
+このリポジトリに含まれるすべてのフィルターを一括でインストールしたい場合は以下のリンク集をコピペしてください。
+```
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_words.txt
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/old_news.txt
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_users.txt
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/end_screen.txt
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Bing/copilot_followup.txt
+```
+
 ## クレジット
 このフィルターリストの作成にあたって、以下を参考にさせていただきました。
 - [uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin) by [Kdroidwin](https://github.com/Kdroidwin): uBlockOrigin向けリストの基本形を参考にしました
