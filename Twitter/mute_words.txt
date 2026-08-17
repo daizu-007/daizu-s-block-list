@@ -23,3 +23,5 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/吹いた|わかる。|@grok|�
 x.com##div[data-testid="cellInnerDiv"]:has-text(/人工地震/)
 !懐古
 x.com##div[data-testid="cellInnerDiv"]:has-text(/昔(は|の方が)(良|よ)かった/)
+!身内ノリ
+x.com##div[data-testid="cellInnerDiv"]:has-text(/淫夢|ヒカマニ|ヒカマー/)
