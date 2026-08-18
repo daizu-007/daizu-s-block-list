@@ -7,3 +7,5 @@ x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-test
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/diangelo01"],[href="/0o_6y"]))
 ! 地震予測系
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/nankaiEQ"]))
+! 暗号資産
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/Thecoinconnect"]))
