@@ -79,6 +79,16 @@ YouTube動画の最後に表示されるオーバーレイコンテンツを可�
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/end_screen.txt
 ```
 
+#### Don't ask me about YouTube Premium
+
+YouTubeにまれに表示されるYouTube Premiumの機能について尋ねる謎のアンケートを非表示にします。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fdaizu-007%2Fdaizu-s-block-list%2Frefs%2Fheads%2Fmain%2FYouTube%2Fpremium_survey.txt\&title=Don%27t%20ask%20me%20about%20YouTube%20Premium)
+
+```
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/premium_survey.txt
+```
+
 ### Bing
 
 #### I don't have questions for Copilot while searching on Bing

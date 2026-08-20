@@ -1,0 +1,4 @@
+! Title: Don't ask me about YouTube Premium
+! Homepage: https://github.com/daizu-007/daizu-s-block-list
+
+##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
