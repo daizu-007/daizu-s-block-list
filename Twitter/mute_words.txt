@@ -12,13 +12,13 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/チー牛|撮り鉄|オタク�
 !反AI
 x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー/)
 !国際
-x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人|K国|隣国|隣の国|スパイ/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人|K国|隣国|隣の国|スパイ|外人|外国人|亡命/)
 !政治
-x.com##div[data-testid="cellInnerDiv"]:has-text(/反ワク|ネトウヨ|極右|極左|左翼|右翼|パヨク|財務省|裏金|利権|マスコミ|マスゴミ|既得権益|警察|警官|警備員|農協/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/反ワク|ネトウヨ|極右|極左|左翼|右翼|パヨク|財務省|裏金|利権|マスコミ|マスゴミ|既得権益|警察|警官|警備員|農協|科捜研|避難所/)
 !ゴシップ
 x.com##div[data-testid="cellInnerDiv"]:has-text(/不倫|浮気|不貞|広陵/)
 !スパム
-x.com##div[data-testid="cellInnerDiv"]:has-text(/吹いた|わかる。|@grok|落ち着いて聞いてください|落ち着いて聞いて下さい|あの、失礼ですが/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/吹いた|@grok|落ち着いて聞いてください|落ち着いて聞いて下さい|あの、失礼ですが/)
 !デマ
 x.com##div[data-testid="cellInnerDiv"]:has-text(/人工地震/)
 !懐古
