@@ -4,13 +4,13 @@
 !一般
 x.com##div[data-testid="cellInnerDiv"]:has-text(/バカ|アホ|死ね|氏ね|カス|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|花畑|義務敗|義務教育の敗北/)
 !追加
-x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|ドパガキ|ドーパミン|ドパミン|技術者倫理|( ˃ᯅ˂ )/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドーパミン|ドパミン|技術者倫理|( ˃ᯅ˂ )/)
 !性
 x.com##div[data-testid="cellInnerDiv"]:has-text(/フェミ|フェミニスト|女性専用車両|水商売|売春|弱者男性|男|女|トイレ|性別|痴漢|冤罪/)
 !オタク
 x.com##div[data-testid="cellInnerDiv"]:has-text(/チー牛|撮り鉄|オタクくん/)
 !反AI
-x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー|AI学習|著作権侵害/)
 !国際
 x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人|K国|隣国|隣の国|スパイ|外人|外国人|亡命/)
 !政治

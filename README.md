@@ -30,6 +30,17 @@ Androidで拡張機能をサポートしたブラウザはあまり多くあり�
 
 Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。
 
+### uBlock Origin liteでの使い方
+※ 十分にテストしていません。動作報告や手順の更新を歓迎します。
+
+#### 1. uBlock Origin liteのインストール
+- Chrome/Titanium等: [uBlock Origin Lite - Chrome ウェブストア](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+- Edge: [uBlock Origin Lite - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
+- Safari: [uBlock Origin Lite - App Store](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698)
+- 手動インストール: [uBlock Origin Lite - GitHub](https://github.com/uBlockOrigin/uBOL-home)
+
+#### 2. 
+
 ## フィルターリスト
 
 ### Twitter
