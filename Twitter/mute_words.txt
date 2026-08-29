@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/daizu-007/daizu-s-block-list
 
 !一般
-x.com##div[data-testid="cellInnerDiv"]:has-text(/アホ|死ね|氏ね|カス|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|花畑|義務敗|義務教育の敗北/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/アホ|死ね|氏ね|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|花畑|義務敗|義務教育の敗北/)
 !追加
 x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドーパミン|ドパミン|技術者倫理|( ˃ᯅ˂ )/)
 !性
