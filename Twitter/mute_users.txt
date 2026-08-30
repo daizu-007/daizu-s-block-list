@@ -4,7 +4,7 @@
 ! 炎上に関わりやすい
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/yominokuni140"],[href="/tkzwgrs"]))
 ! インプレッションを増やしたい?
-x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/diangelo01"],[href="/0o_6y"]))
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/diangelo01"],[href="/0o_6y"],[href="/nichigin_watch"]))
 ! 地震予測系
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/nankaiEQ"]))
 ! 暗号資産
