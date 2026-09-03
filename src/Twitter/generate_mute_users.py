@@ -12,6 +12,8 @@ class GenerateMuteUsers:
         self.DIST = self.REPO_ROOT / "Twitter/mute_users.txt"
         self.USER_BASE = '[href="/{name}"]'
         self.FILTER_BASE = 'x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is({users}))'
+        self.TITLE = "daizu's twitter mute users"
+        self.HOMEPAGE = "https://github.com/daizu-007/daizu-s-block-list"
 
     # 外部から実行するメソッド
     def run(self):
@@ -27,6 +29,9 @@ class GenerateMuteUsers:
     def _generate_mute_users(self):
         filters_lines = [] # フィルターを行ごとに格納するリスト
         users = [] # ユーザー名を一時的に格納するリスト
+        # ヘッダーを追加
+        filters_lines.append(f"! Title: {self.TITLE}")
+        filters_lines.append(f"! Homepage: {self.HOMEPAGE}")
         # mute_users.src.txtが存在するか確認
         if not self.SRC.exists():
             print(f"{self.SRC} does not exist.")

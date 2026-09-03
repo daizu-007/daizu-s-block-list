@@ -27,8 +27,12 @@ Google Chromeでは、uBlock Originが必要とするManifest V2がサポート�
 #### Androidの場合
 Androidで拡張機能をサポートしたブラウザはあまり多くありません。FireFox系ブラウザであればほとんどの場合拡張機能をサポートしていますが、個人的には以下のChromium系ブラウザを推奨します:
 - [Titanium Browser](https://play.google.com/store/apps/details?id=io.github.jqssun.helium)
+- [Bare Browser](https://github.com/BareBrowser/bare-browser)
 
-Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。
+Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。Playストアから更新できます。  
+Bare BrowserはManifest V2をサポートしており、uBlock Originが組み込まれています。ストアにないためObtanium等を使用してGitHubからインストールしてください。
+
+Bare Browserの紹介記事: https://note.com/daizu_lab/n/nc20fecb20159
 
 ### uBlock Origin liteでの使い方
 ※ 十分にテストしていません。動作報告や手順の更新を歓迎します。
@@ -39,7 +43,7 @@ Titanium BrowserはManifest V2をサポートしており、uBlock Originをイ�
 - Safari: [uBlock Origin Lite - App Store](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698)
 - 手動インストール: [uBlock Origin Lite - GitHub](https://github.com/uBlockOrigin/uBOL-home)
 
-#### 2. 
+※※工事中※※
 
 ## フィルターリスト
 
