@@ -1,3 +1,5 @@
+! Title: daizu's twitter mute users
+! Homepage: https://github.com/daizu-007/daizu-s-block-list
 ! 炎上しやすい話題を扱うアカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/yominokuni140"],[href="/tkzwgrs"]))
 ! インプ稼ぎ・バズ狙い系アカウント
