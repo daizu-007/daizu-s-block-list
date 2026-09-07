@@ -1,18 +1,16 @@
 ! Title: daizu's twitter mute users
 ! Homepage: https://github.com/daizu-007/daizu-s-block-list
-! 炎上しやすい話題を扱うアカウント
+! 議論が分かれやすい話題を扱うアカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/yominokuni140"],[href="/tkzwgrs"],[href="/yonaoshi_com"],[href="/yohsuken"],[href="/sonzaishinai1"]))
-! インプ稼ぎ・バズ狙い系アカウント
+! 拡散されやすい投稿が多いアカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/diangelo01"],[href="/0o_6y"],[href="/nichigin_watch"],[href="/fuyuyasumiminai"],[href="/threenotes_jp"],[href="/CarenSetsuyaku"],[href="/prison_20"],[href="/jiro_3_"],[href="/tnkno_18"],[href="/anago__fire"],[href="/fukuzawa_afi"],[href="/nyp_qoo"],[href="/gorizo03070516"],[href="/erai_sensei2"],[href="/hayakore"],[href="/pastblowupbot"],[href="/fsedholy"],[href="/Ahmetkldk"],[href="/rion5674"],[href="/phinesenchi"],[href="/kiyo_money28"],[href="/ushijimanvoice"],[href="/MUSECOBAE"],[href="/bigtetoplush"],[href="/kajikura_desu"],[href="/tukaerune"],[href="/girls_fight5153"],[href="/JPT_Struggles"],[href="/magaobot1"],[href="/narisumashi100"],[href="/onlineinsane"],[href="/mei_situation"]))
 ! 地震予測系アカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/nankaiEQ"]))
 ! 暗号資産関連アカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/Thecoinconnect"]))
-! 他人をバカにする系アカウント
-x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/surumelock"],[href="/dstar92351213"],[href="/reiwa_uma"],[href="/5percent_Dora"],[href="/NaiTUbot"]))
 ! ○○集
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/fatmabuyukardic"],[href="/snsnokyoufu"],[href="/0ari_9"],[href="/bad_texter"],[href="/zetaMGS"]))
-! 不快な話題
-x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/p_ka2295079"]))
+! 個人的に苦手な話題
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/p_ka2295079"],[href="/surumelock"],[href="/dstar92351213"],[href="/reiwa_uma"],[href="/5percent_Dora"],[href="/NaiTUbot"]))
 ! 特定のリンク
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/wjgwmd"]))
