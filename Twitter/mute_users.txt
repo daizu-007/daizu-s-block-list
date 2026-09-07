@@ -16,3 +16,5 @@ x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-test
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/fatmabuyukardic"],[href="/snsnokyoufu"],[href="/0ari_9"],[href="/bad_texter"],[href="/zetaMGS"]))
 ! 不快な話題
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/p_ka2295079"]))
+! 詐欺リンク
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/wjgwmd"]))
