@@ -4,7 +4,9 @@
 ! 暴言・誹謗中傷・差別用語
 x.com##div[data-testid="cellInnerDiv"]:has-text(/アホ|死ね|氏ね|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|花畑|義務敗|義務教育の敗北/)
 ! 煽り・冷笑系の絵文字・煽り文句
-x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドーパミン|ドパミン|技術者倫理|( ˃ᯅ˂ )|( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドーパミン|ドパミン|技術者倫理|( ˃ᯅ˂ )|( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )|ドカ鬱/)
+! 短気
+x.com##div[data-testid="cellInnerDiv"]:has-text(/カチン|嫌がらせ/)
 ! 男女論争・性関連の話題
 x.com##div[data-testid="cellInnerDiv"]:has-text(/フェミ|フェミニスト|女性専用車両|水商売|売春|弱者男性|男|女|トイレ|性別|痴漢|冤罪/)
 ! オタク叩き
