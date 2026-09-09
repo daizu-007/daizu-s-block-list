@@ -12,7 +12,7 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/フェミ|フェミニスト|�
 ! オタク叩き
 x.com##div[data-testid="cellInnerDiv"]:has-text(/チー牛|撮り鉄|オタクくん/)
 ! 生成AI論争
-x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー|AI学習|著作権侵害/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー|AI学習|著作権侵害|AI使用禁止/)
 ! 国籍・民族・外国人関連の話題
 x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人|K国|隣国|隣の国|スパイ|外人|外国人|亡命/)
 ! 政治・社会・イデオロギー関連
