@@ -27,3 +27,5 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/人工地震|気象兵器|地�
 x.com##div[data-testid="cellInnerDiv"]:has-text(/昔(は|の方が)(良|よ)かった/)
 ! 内輪ネタ・身内ノリ（淫夢・ヒカマニ系）
 x.com##div[data-testid="cellInnerDiv"]:has-text(/淫夢|ヒカマニ|ヒカマー/)
+! ヴィーガン
+x.com##div[data-testid="cellInnerDiv"]:has-text(/ヴィーガン|ベジタリアン/)
