@@ -97,6 +97,7 @@ https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Y
 #### Don't ask me about YouTube Premium
 
 YouTubeにまれに表示されるYouTube Premiumの機能について尋ねる謎のアンケートを非表示にします。
+すでに購読されている方のためにフィルターは残しますが、fanboy_annoyance_specific_hide.txtに含まれているため、そちらの購読をおすすめします。YouTube Premiumアンケートの非表示のみを行いたい場合は、こちらのフィルターを購読してください。
 
 [インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fdaizu-007%2Fdaizu-s-block-list%2Frefs%2Fheads%2Fmain%2FYouTube%2Fpremium_survey.txt\&title=Don%27t%20ask%20me%20about%20YouTube%20Premium)
 
@@ -125,10 +126,17 @@ https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Y
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Bing/copilot_followup.txt
 ```
 
+## ライセンス
+このリポジトリで提供されるフィルターリストは、特に断りがない限り、Apache License 2.0の下でライセンスされています。詳細は[LICENSE](LICENSE)をご覧ください。
+
+ただし、以下のフィルターリストは、別のライセンスで提供されています。詳細は各ファイルの先頭に記載されています。
+- [Don't ask me about YouTube Premium](YouTube/premium_survey.txt): [GPL-3.0-or-later](LICENCE-GPL-3.0-or-later.txt)
+
 ## クレジット
 このフィルターリストの作成にあたって、以下を参考にさせていただきました。
 - [uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin) by [Kdroidwin](https://github.com/Kdroidwin): uBlockOrigin向けリストの基本形を参考にしました
 - [gist:488dac5770c2a3cc36edc9139b625190](https://gist.github.com/Yuki2718/488dac5770c2a3cc36edc9139b625190) by [Yuki2718](https://github.com/Yuki2718): Twitterで特定ユーザーの投稿を非表示にする方法を参考にしました  
+- [fanboy_annoyance_specific_hide.txt](https://github.com/easylist/easylist/blob/master/fanboy-addon/fanboy_annoyance_specific_hide.txt): YouTube Premiumのアンケートを非表示にする方法を参考にしました
   
 このフィルターの作成に協力してくださったすべての方に感謝を申し上げます。以下に、主な貢献者の主な貢献内容を記載します。
 - [Kdroidwin](https://github.com/Kdroidwin)

@@ -1,4 +1,13 @@
 ! Title: Don't ask me about YouTube Premium
 ! Homepage: https://github.com/daizu-007/daizu-s-block-list
 
-##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+! License: GPL-3.0-or-later
+! SPDX-License-Identifier: GPL-3.0-or-later
+! Source: The EasyList authors (https://easylist.to/)
+!
+! This file contains a rule derived from EasyList
+! (https://easylist.to/pages/licence.html), which is dual licensed under
+! GPL-3.0-or-later or CC-BY-SA-3.0-or-later. This file is distributed here
+! under GPL-3.0-or-later. See LICENSE-GPL-3.0-or-later.txt for the full text.
+
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has(> .ytd-popup-container > #options[class$="survey-renderer"])
