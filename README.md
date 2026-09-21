@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/B
 このリポジトリで提供されるフィルターリストは、特に断りがない限り、Apache License 2.0の下でライセンスされています。詳細は[LICENSE](LICENSE)をご覧ください。
 
 ただし、以下のフィルターリストは、別のライセンスで提供されています。詳細は各ファイルの先頭に記載されています。
-- [Don't ask me about YouTube Premium](YouTube/premium_survey.txt): [GPL-3.0-or-later](LICENCE-GPL-3.0-or-later.txt)
+- [Don't ask me about YouTube Premium](YouTube/premium_survey.txt): [GPL-3.0-or-later](LICENSE-GPL-3.0-or-later.txt)
 
 ## クレジット
 このフィルターリストの作成にあたって、以下を参考にさせていただきました。
