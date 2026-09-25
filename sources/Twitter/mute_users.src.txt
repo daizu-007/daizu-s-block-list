@@ -60,5 +60,6 @@
 @reiwa_uma
 @5percent_Dora
 @NaiTUbot
+@baw_peca
 ! 特定のリンク
 @wjgwmd
