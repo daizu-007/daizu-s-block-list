@@ -123,6 +123,7 @@ https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/T
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/old_news.txt
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_users.txt
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/end_screen.txt
+https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/YouTube/premium_survey.txt
 https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Bing/copilot_followup.txt
 ```
 
