@@ -32,3 +32,5 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/昔(は|の方が)(良|よ)か�
 x.com##div[data-testid="cellInnerDiv"]:has-text(/淫夢|ヒカマニ|ヒカマー/)
 ! ヴィーガン
 x.com##div[data-testid="cellInnerDiv"]:has-text(/ヴィーガン|ベジタリアン/)
+! 悪質URL
+x.com##div[data-testid="cellInnerDiv"]:has-text(/link-card\.online|linkmisty\.com/)
