@@ -33,4 +33,4 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/淫夢|ヒカマニ|ヒカマ�
 ! ヴィーガン
 x.com##div[data-testid="cellInnerDiv"]:has-text(/ヴィーガン|ベジタリアン/)
 ! 悪質URL
-x.com##div[data-testid="cellInnerDiv"]:has-text(/link-card\.online|linkmisty\.com/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/link-card\.online|linkmisty\.com|twitter-blocked-checker\.vercel\.app/)
